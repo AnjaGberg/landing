@@ -1,0 +1,16 @@
+.banner {
+  background-image: url(../../images/1920.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner h1 {
+  color: white;
+  text-shadow: rgb(138, 136, 136);
+}
+
+.banner p{
+  color: white;
+  font-weight: bold;
+}

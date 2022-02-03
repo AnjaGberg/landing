@@ -1,0 +1,11 @@
+.footer {
+  text-align: center;
+  padding: 50px;
+  background-color: #0d5056;
+  color:burlywood
+}
+
+.footer a {
+  font-size: 40px;
+  color:burlywood;
+}
